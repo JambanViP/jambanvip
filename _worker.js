@@ -5,9 +5,9 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "akunbuatjamban1.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "jambanvip"; // Ganti dengan nama workers kalian
-const apiKey = "Gy_mXxAn8xFpLBv-8uzHEMYorNZj_GFs1hxQ4tbP"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = "akunbuatjamban1@gmail.com"; // Ganti dengan email yang kalian gunakan
-const accountID = "f866f32648c3ba899d35f995ef3d6627"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiEmail = ""; // Ganti dengan email yang kalian gunakan
+const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
 let proxyIP = "";
